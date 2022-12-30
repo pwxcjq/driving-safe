@@ -1,0 +1,9 @@
+Desktop Entry]
+
+Type=Application
+
+Name=testboot
+
+NoDisplay=true
+
+Exec= python3 /home/pi/Desktop/safely_driving/Safely_Driving_14.py
